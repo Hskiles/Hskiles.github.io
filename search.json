@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "posts/ncaa-football-huskers-nfl/index.html",
+    "href": "posts/ncaa-football-huskers-nfl/index.html",
+    "title": "Who are the Nebraksa CornHuskers of the NFL",
+    "section": "",
+    "text": "Every football team I have ever cheered for sucked.\n\n\nCode\nlibrary(tidyverse)\n\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.6\n✔ forcats   1.0.1     ✔ stringr   1.6.0\n✔ ggplot2   4.0.1     ✔ tibble    3.3.1\n✔ lubridate 1.9.4     ✔ tidyr     1.3.2\n✔ purrr     1.2.1     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a broadcasting major at UNL. As a life long Husker fan I am always intrigued to learn more about Husker sports and why things happen."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sportsblog",
+    "section": "",
+    "text": "Who are the Nebraksa CornHuskers of the NFL\n\n\n\nfootball\n\nhuskers\n\nnfl\n\n\n\n\n\n\n\n\n\nApr 10, 2026\n\n\nHarrison Skiles\n\n\n\n\n\nNo matching items"
+  }
+]
